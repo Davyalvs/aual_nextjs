@@ -1,0 +1,25 @@
+.section {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 120px;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table th, .table td {
+    padding: 10px;
+    border: 1px solid #fff;
+}
+
+.table th {
+    background-color: #555;
+}
+
+.evenRow {
+    background-color: #444;
+}
